@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Seven
+=======
+File2
+>>>>>>> branch2
